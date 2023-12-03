@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//div[@class='s-suggestion s-suggestion-ellipsis-direction']\"}\n  (Session info: chrome=114.0.5735.199)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00ABA813+48355]\n\t(No symbol) [0x00A4C4B1]\n\t(No symbol) [0x00955358]\n\t(No symbol) [0x009809A5]\n\t(No symbol) [0x00980B3B]\n\t(No symbol) [0x009AE232]\n\t(No symbol) [0x0099A784]\n\t(No symbol) [0x009AC922]\n\t(No symbol) [0x0099A536]\n\t(No symbol) [0x009782DC]\n\t(No symbol) [0x009793DD]\n\tGetHandleVerifier [0x00D1AABD+2539405]\n\tGetHandleVerifier [0x00D5A78F+2800735]\n\tGetHandleVerifier [0x00D5456C+2775612]\n\tGetHandleVerifier [0x00B451E0+616112]\n\t(No symbol) [0x00A55F8C]\n\t(No symbol) [0x00A52328]\n\t(No symbol) [0x00A5240B]\n\t(No symbol) [0x00A44FF7]\n\tBaseThreadInitThunk [0x75BC00C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77B67B1E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77B67AEE+238]\n"
+}
